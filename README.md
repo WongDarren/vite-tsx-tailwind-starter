@@ -1,4 +1,3 @@
-
 # ⚡ vite-react-ts-tailwind-starter ⚡
 
 Starter using Vite + React + TypeScript + Tailwind.
@@ -9,13 +8,13 @@ Enhance the efficiency of developing your prototypes quicker by leveraging Vite,
 
 This starter kit employs the following libraries:
 
--   Vite
--   React
-    -   React Router
--   TypeScript
--   Tailwind CSS
--   ESLint
--   Prettier
+- Vite
+- React
+  - React Router
+- TypeScript
+- Tailwind CSS
+- ESLint
+- Prettier
 
 ## Set up
 
@@ -23,7 +22,6 @@ This starter kit employs the following libraries:
 npm install
 npm run dev
 ```
-
 
 ## Vite
 
@@ -37,12 +35,11 @@ The [Vite](https://github.com/vitejs/vite) tool is designed for efficient fronte
 
 [React](https://github.com/facebook/react) is a JavaScript library for building user interfaces.
 
-
 ## TypeScript
 
 [TypeScript](https://github.com/microsoft/TypeScript) is a superset of JavaScript. It is just one of NPM library, but it provides an original compiler.
 
-When you use TypeScript with React, you can write JSX with TypeScript, called TSX. Then you can develop views written by  **Type-Safe** template.
+When you use TypeScript with React, you can write JSX with TypeScript, called TSX. Then you can develop views written by **Type-Safe** template.
 
 ## Tailwind CSS
 
@@ -53,7 +50,6 @@ For developers using Visual Studio Code, it is recommended to use the [intellise
 When working with React, developers often struggle with deciding how to write CSS in TSX(JSX) templates. They may consider options such as CSS Modules, [styled-components](https://styled-components.com/), [linaria](https://github.com/callstack/linaria), and more. Additionally, CSS architecture can be difficult to manage, such as with scoping methods like [BEM](https://getbem.com/) or [FLOCSS](https://github.com/hiloki/flocss/blob/master/README_eng.md).
 
 However, when utilizing Tailwind CSS, developers only need to write utility-first CSS classes and need not worry about the other concerns mentioned above.
-
 
 ## Formatter and Linter
 
